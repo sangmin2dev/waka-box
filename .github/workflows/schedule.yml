@@ -14,6 +14,6 @@ jobs:
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: Z7rNKnbpKpayb7YKoAsBRO5ljOuoWk1T1zNR
-          GIST_ID: 6f95b52afbf712b499798f6d42156b05
-          WAKATIME_API_KEY: cffa9d75d11a7862bcbd115fdf768880
+          GIST_ID: cffa9d75d11a7862bcbd115fdf768880
+          WAKATIME_API_KEY: cfeeb2a7-ee1f-47aa-b642-e75216a4c77c
           TIMEZONE: Asia/Seoul
